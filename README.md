@@ -5,7 +5,7 @@
   <br />
   <br />
 
-  <h2 align="center">Iphone Pro Dynamic Island</h2>
+  <h2 align="center">Iphone 14 Pro Dynamic Island</h2>
 
 
   ### Demo Screeshots
